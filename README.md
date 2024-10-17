@@ -28,6 +28,8 @@ The LSTM model predicts demand 24 hours in advance using hourly heat, water cons
 - **Testing Data**: Similar to the heat demand data, with missing values every eighth day, requiring 24-hour ahead forecasts. These files are labeled as `WaterDMA1_Testing` and `WaterDMA2_Testing`.
 
 
-[**Project Data**](Data/): Document detailing data cleaning and pipeline procedures.
+[**Project Data**](Data/): Project data if available here.
 
 [**Project Analysis Report**](Time_Series_Project_Report.pdf): Final report containing data analysis and visualizations.
+
+
