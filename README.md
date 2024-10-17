@@ -12,7 +12,6 @@ The LSTM model predicts demand 24 hours in advance using hourly heat, water cons
 - **Metrics**: MAE and MAPE for performance evaluation
 - **Data Sources**: Hourly heat and water usage data, meteorological data
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+[**Project Data**](Data/): Document detailing data cleaning and pipeline procedures.
+
+[**Project Analysis Report**](Time_Series_Project_Report.pdf): Final report containing data analysis and visualizations.
