@@ -32,4 +32,5 @@ The LSTM model predicts demand 24 hours in advance using hourly heat, water cons
 
 [**Project Analysis Report**](Time_Series_Project_Report.pdf): Final report containing data analysis and visualizations.
 
+[**Project Analysis Presentation**](Time Series Challenge.pdf): Final presentation containing data analysis and visualizations.
 
