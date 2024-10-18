@@ -26,7 +26,7 @@ The LSTM model predicts demand 24 hours in advance using hourly heat, water cons
 ## Project Resources
 
 - [**Project Data**](Data/): Project data if available here.
-- - [**Code For Heat Demand in Urban Area**](Heat_Demand_Forecasting/): Code for forecasting heat demand in urban areas.
+- [**Code For Heat Demand in Urban Area**](Heat_Demand_Forecasting/): Code for forecasting heat demand in urban areas.
 - [**Code For Water Demand in Urban Area**](Water_Demand_Forecasting_For_Urban_Area/): Code for forecasting water demand in urban areas.
 - [**Code For Water Demand in Rural Area**](Water_Demand_Forecasting_For_Rural_Area/): Code for forecasting water demand in rural areas.
 - [**Project Analysis Report**](Time_Series_Project_Report.pdf): Final report containing data analysis and visualizations.
